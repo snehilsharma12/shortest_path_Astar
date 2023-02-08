@@ -1,4 +1,5 @@
 Finds the shortest path between two points and drows the path on a given map image.
+Can also draw a path if given a set of destinations to visit on the way, with the shortest path taken between them.
 Takes elevation into consideration if an elevation file is provided.
 
 Design decision: A pixel’s neighbors are 4 pixels that share an edge. 
