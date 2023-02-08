@@ -1,5 +1,5 @@
 """
-lab1.py
+main.py
 
 Finds and draws the shortest path between given coordinates,
 on the given map image image.
